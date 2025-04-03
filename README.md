@@ -1,4 +1,4 @@
-A modern food ordering and delivery platform built with Java, Spring Boot, and React.
+A modern food ordering and delivery platform built with Java, Spring Boot, and Angular.
 
 🌟 Features
 
